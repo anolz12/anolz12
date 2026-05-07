@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anol Dsouza</h1>
+<h3 align="center">💻 Software Developer</h3>
 
-<!--
-**anolz12/anolz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Who Am I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering student  
+- 💡 Passionate about building real-world applications  
+- 📱 Interested in Android & Full Stack Development  
+- 🚀 Currently improving my development skills  
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="icons/HTML.svg" width="40"/>
+  <img src="icons/CSS.svg" width="40"/>
+  <img src="icons/Kotlin-Dark.svg" width="40"/>
+  <img src="icons/Dart-Dark.svg" width="40"/>
+  <img src="icons/Flutter-Dark.svg" width="40"/>
+  <img src="icons/Firebase-Dark.svg" width="40"/>
+  <img src="icons/Npm-Dark.svg" width="40"/>
+  <img src="icons/PyCharm-Dark.svg" width="40"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🏋️ FitGenie
+- AI-powered fitness & wellness mobile app  
+- Includes workout tracking and AI chatbot  
+
+---
+
+### 🍜 China Metro Restaurant
+- Full-stack restaurant website  
+- Features login system, menu, and admin panel  
+
+---
+
+## 🔮 Currently Working On
+
+- 📱 Improving FitGenie app  
+- 🌐 Building more full-stack projects with AI  
+- ⚡ Learning advanced backend & APIs  
+
+---
+
+
+
+---
+
+⭐️ From Anol Dsouza
