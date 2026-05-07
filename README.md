@@ -18,6 +18,7 @@
   <img src="icons/HTML.svg" width="40"/>
   <img src="icons/CSS.svg" width="40"/>
   <img src="icons/Kotlin-Dark.svg" width="40"/>
+  <img src="icons/JavaScript.svg" width="40"/>
   <img src="icons/Dart-Dark.svg" width="40"/>
   <img src="icons/Flutter-Dark.svg" width="40"/>
   <img src="icons/Firebase-Dark.svg" width="40"/>
