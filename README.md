@@ -3,8 +3,6 @@
 
 ---
 
-## 👨‍💻 Who Am I
-
 - 🎓 Software Engineer  
 - 💡 Passionate about building real-world applications  
 - 📱 Interested in Full Stack Development  
